@@ -40,3 +40,11 @@ The best feature identified is shown in form of pie chart
 ```
 
 ![picture](images/bestfeature.png) 
+
+
+```
+
+Age is found to be most influencing feature to decide whether a person buys computer or not from the given csv data.
+
+
+```
